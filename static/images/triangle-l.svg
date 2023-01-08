@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 940 1404" version="1.1"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve"
+    xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-224.347,-42.5954)">
+        <g id="Polygon_1" transform="matrix(1,0,0,1,193.046,-4.90796)">
+            <path d="M970.502,47.503L970.502,1450.83L66.652,817.127C19.516,784.079 19.516,714.253 66.652,681.206L970.502,47.503Z" style="fill:url(#_Linear1);fill-rule:nonzero;"/>
+        </g>
+    </g>
+    <defs>
+        <linearGradient id="_Linear1" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(324.029,1231.42,-1231.42,324.029,540.932,226.061)">
+            <stop offset="0" style="stop-color:rgb(57,120,167);stop-opacity:1">
+                <animate attributeName="stop-color" values="#3978a7; #623c75; #9d6d66; #3978a7" dur="10s" repeatCount="indefinite"></animate>
+            </stop>
+            <stop offset="0.47" style="stop-color:rgb(98,60,117);stop-opacity:1">
+                <animate attributeName="stop-color" values="#623c75; #9d6d66; #3978a7; #623c75" dur="10s" repeatCount="indefinite"></animate>
+            </stop>
+            <stop offset="1" style="stop-color:rgb(157,109,102);stop-opacity:1">
+                <animate attributeName="stop-color" values="#9d6d66; #623c75; #3978a7; #9d6d66" dur="10s" repeatCount="indefinite"></animate>
+            </stop>
+        </linearGradient>
+    </defs>
+</svg>

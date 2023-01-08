@@ -1,0 +1,137 @@
+{
+  "$schema": "https://frontmatter.codes/frontmatter.schema.json",
+  "frontMatter.taxonomy.contentTypes": [
+    {
+      "name": "default",
+      "pageBundle": false,
+      "previewPath": null,
+      "fields": [
+        {
+          "title": "Title",
+          "name": "title",
+          "type": "string"
+        },
+        {
+          "title": "Description",
+          "name": "description",
+          "type": "string"
+        },
+        {
+          "title": "Publishing date",
+          "name": "date",
+          "type": "datetime",
+          "default": "{{now}}",
+          "isPublishDate": true
+        },
+        {
+          "title": "Content preview",
+          "name": "preview",
+          "type": "image"
+        },
+        {
+          "title": "Is in draft",
+          "name": "draft",
+          "type": "draft"
+        },
+        {
+          "title": "Tags",
+          "name": "tags",
+          "type": "tags"
+        },
+        {
+          "title": "Categories",
+          "name": "categories",
+          "type": "categories"
+        }
+      ]
+    }
+  ],
+  "frontMatter.content.snippets": {
+    "Highlight": {
+      "description": "Coding language highlighting",
+      "body": [
+        "{{< highlight \"[[type]]\" \"linenos=table,noclasses=false\" >}}",
+        "  [[selection]]",
+        "{{< / highlight >}}"
+      ],
+      "fields": [
+        {
+          "name": "type",
+          "title": "Language",
+          "type": "choice",
+          "choices": ["html", "css", "typescript"],
+          "default": "typescript"
+        },
+        {
+          "name": "selection",
+          "title": "Selection",
+          "type": "string",
+          "default": "FM_SELECTED_TEXT"
+        }
+      ]
+    },
+    "Post-its": {
+      "description": "Various background for publication",
+      "body": [
+        "{{< post-it type=\"[[type]]\" title=\"[[title]]\" >}}",
+        "[[text]]",
+        "{{< / post-it >}}"
+      ],
+      "fields": [
+        {
+          "name": "type",
+          "title": "type",
+          "type": "choice",
+          "choices": ["", "success", "danger", "info"],
+          "default": ""
+        },
+        {
+          "name": "title",
+          "title": "Title",
+          "type": "string",
+          "default": ""
+        },
+        {
+          "name": "text",
+          "title": "Text",
+          "type": "string",
+          "default": ""
+        }
+      ]
+    }
+  },
+
+  "frontMatter.data.types": [
+    {
+      "id": "sponsors",
+      "schema": {
+        "title": "Sponsors",
+        "type": "object",
+        "required": ["name", "url"],
+        "properties": {
+          "name": {
+            "type": "string",
+            "title": "Name"
+          },
+          "url": {
+            "type": "string",
+            "title": "URL"
+          },
+          "description": {
+            "type": "string",
+            "title": "Description"
+          }
+        }
+      }
+    }
+  ],
+  "frontMatter.data.files": [
+    {
+      "title": "All sponsors",
+      "id": "all-sponsors",
+      "file": "[[workspace]]/data/sponsors",
+      "labelField": "name",
+      "type": "sponsors"
+    }
+  ]
+}

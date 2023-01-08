@@ -1,0 +1,160 @@
+{
+  "frontMatter.content.pageFolders": [
+    {
+      "title": "content",
+      "path": "[[workspace]]/content"
+    }
+  ],
+  "frontMatter.taxonomy.tags": [
+    "Etiqueta",
+    "Tag",
+    "amperage",
+    "emoji",
+    "markdown",
+    "page",
+    "text"
+  ],
+  "frontMatter.taxonomy.categories": ["post", "page"],
+  "frontMatter.content.fmHighlight": true,
+  "frontMatter.content.autoUpdateDate": true,
+  "frontMatter.taxonomy.contentTypes": [
+    {
+      "name": "default",
+      "pageBundle": false,
+      "fields": [
+        {
+          "title": "Title",
+          "name": "title",
+          "type": "string"
+        },
+        {
+          "title": "Description",
+          "name": "description",
+          "type": "string"
+        },
+        {
+          "title": "Publishing date",
+          "name": "date",
+          "type": "datetime",
+          "default": "{{now}}",
+          "isPublishDate": true
+        },
+        {
+          "title": "Content preview",
+          "name": "preview",
+          "type": "image"
+        },
+        {
+          "title": "Is in draft",
+          "name": "draft",
+          "type": "boolean"
+        },
+        {
+          "title": "Tags",
+          "name": "tags",
+          "type": "tags"
+        },
+        {
+          "title": "Categories",
+          "name": "categories",
+          "type": "categories"
+        },
+        {
+          "title": "publishdate",
+          "name": "publishdate",
+          "type": "datetime"
+        },
+        {
+          "title": "summary",
+          "name": "summary",
+          "type": "string"
+        },
+        {
+          "title": "keywords",
+          "name": "keywords",
+          "type": "choice",
+          "choices": ["amperage", "test", "post"]
+        },
+        {
+          "title": "amp",
+          "name": "amp",
+          "type": "fields",
+          "fields": [
+            {
+              "title": "elements",
+              "name": "elements",
+              "type": "fields",
+              "fields": []
+            }
+          ]
+        },
+        {
+          "title": "author",
+          "name": "author",
+          "type": "fields",
+          "fields": [
+            {
+              "title": "name",
+              "name": "name",
+              "type": "string"
+            },
+            {
+              "title": "homepage",
+              "name": "homepage",
+              "type": "string"
+            }
+          ]
+        },
+        {
+          "title": "image",
+          "name": "image",
+          "type": "fields",
+          "fields": [
+            {
+              "title": "src",
+              "name": "src",
+              "type": "string"
+            }
+          ]
+        },
+        // {
+        //   "title": "twitter",
+        //   "name": "twitter",
+        //   "type": "fields",
+        //   "fields": [
+        //     {
+        //       "title": "site",
+        //       "name": "site",
+        //       "type": "string"
+        //     }
+        //   ]
+        // },
+        {
+          "title": "sitemap",
+          "name": "sitemap",
+          "type": "fields",
+          "fields": [
+            {
+              "title": "changefreq",
+              "name": "changefreq",
+              "type": "string"
+            },
+            {
+              "title": "priority",
+              "name": "priority",
+              "type": "datetime"
+            },
+            {
+              "title": "filename",
+              "name": "filename",
+              "type": "string"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "[markdown]": {},
+  "frontMatter.framework.id": "hugo",
+  "frontMatter.content.publicFolder": "static"
+}
