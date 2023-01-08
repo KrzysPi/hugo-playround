@@ -1,33 +1,33 @@
 { "items": [{
             "title": "Support",
-            "url": "/glp/support/",
+            "url": "https://app.netlify.com/sites/gilded-speculoos-ea421e/glp/support/",
             "date": "8 January 2023"
         },{
             "title": "Iot",
-            "url": "/glp/iot/",
+            "url": "https://app.netlify.com/sites/gilded-speculoos-ea421e/glp/iot/",
             "date": "8 January 2023"
         },{
             "title": "Solutions",
-            "url": "/glp/solutions/",
+            "url": "https://app.netlify.com/sites/gilded-speculoos-ea421e/glp/solutions/",
             "date": "8 January 2023"
         },{
             "title": "Product",
-            "url": "/glp/product/",
+            "url": "https://app.netlify.com/sites/gilded-speculoos-ea421e/glp/product/",
             "date": "8 January 2023"
         },{
             "title": "Emoji Support",
-            "url": "/blog/emoji-support/",
+            "url": "https://app.netlify.com/sites/gilded-speculoos-ea421e/blog/emoji-support/",
             "date": "23 December 2019"
         },{
             "title": "Markdown Syntax Guide",
-            "url": "/blog/markdown-syntax/",
+            "url": "https://app.netlify.com/sites/gilded-speculoos-ea421e/blog/markdown-syntax/",
             "date": "23 December 2019"
         },{
             "title": "Placeholder Text",
-            "url": "/blog/placeholder-text/",
+            "url": "https://app.netlify.com/sites/gilded-speculoos-ea421e/blog/placeholder-text/",
             "date": "23 December 2019"
         },{
             "title": "Yet another test post (with image)",
-            "url": "/blog/yet-another-test-post/",
+            "url": "https://app.netlify.com/sites/gilded-speculoos-ea421e/blog/yet-another-test-post/",
             "date": "16 September 2019"
         }]}

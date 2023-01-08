@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Glps on Amperage theme!</title>
-    <link>/glp/</link>
+    <link>https://app.netlify.com/sites/gilded-speculoos-ea421e/glp/</link>
     <description>Recent content in Glps on Amperage theme!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 08 Jan 2023 09:53:25 +0100</lastBuildDate><atom:link href="/glp/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 08 Jan 2023 09:53:25 +0100</lastBuildDate><atom:link href="https://app.netlify.com/sites/gilded-speculoos-ea421e/glp/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Support</title>
-      <link>/glp/support/</link>
+      <link>https://app.netlify.com/sites/gilded-speculoos-ea421e/glp/support/</link>
       <pubDate>Sun, 08 Jan 2023 09:53:25 +0100</pubDate>
       
-      <guid>/glp/support/</guid>
+      <guid>https://app.netlify.com/sites/gilded-speculoos-ea421e/glp/support/</guid>
       <description>Support 8 January 2023by Kris Tags:&amp;nbsp;Our productTables Are Cool col 1 is left-aligned $1600 col 2 is centered $12 col 3 is right-aligned $1 </description>
     </item>
     
     <item>
       <title>Iot</title>
-      <link>/glp/iot/</link>
+      <link>https://app.netlify.com/sites/gilded-speculoos-ea421e/glp/iot/</link>
       <pubDate>Sun, 08 Jan 2023 09:52:53 +0100</pubDate>
       
-      <guid>/glp/iot/</guid>
+      <guid>https://app.netlify.com/sites/gilded-speculoos-ea421e/glp/iot/</guid>
       <description>IoT Success! 🎉Internet of Things- this technological revolution is already here!const z = 10; if (z === 10) { console.log(&amp;#34;yes&amp;#34;); } else { console.log(&amp;#34;no&amp;#34;); }</description>
     </item>
     
     <item>
       <title>Solutions</title>
-      <link>/glp/solutions/</link>
+      <link>https://app.netlify.com/sites/gilded-speculoos-ea421e/glp/solutions/</link>
       <pubDate>Sun, 08 Jan 2023 09:52:32 +0100</pubDate>
       
-      <guid>/glp/solutions/</guid>
+      <guid>https://app.netlify.com/sites/gilded-speculoos-ea421e/glp/solutions/</guid>
       <description>Solutions Worning 🔊jakiś tekstDenger 🐺look out for wolfs!!!</description>
     </item>
     
     <item>
       <title>Product</title>
-      <link>/glp/product/</link>
+      <link>https://app.netlify.com/sites/gilded-speculoos-ea421e/glp/product/</link>
       <pubDate>Sun, 08 Jan 2023 09:51:48 +0100</pubDate>
       
-      <guid>/glp/product/</guid>
+      <guid>https://app.netlify.com/sites/gilded-speculoos-ea421e/glp/product/</guid>
       <description>Product info about product
 piszemy jakiś tekst iot</description>
     </item>

@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tema Amperage!</title>
-    <link>/es/</link>
+    <link>https://app.netlify.com/sites/gilded-speculoos-ea421e/es/</link>
     <description>Recent content on Tema Amperage!</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>es</language><atom:link href="/es/index.xml" rel="self" type="application/rss+xml" />
+    <language>es</language><atom:link href="https://app.netlify.com/sites/gilded-speculoos-ea421e/es/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

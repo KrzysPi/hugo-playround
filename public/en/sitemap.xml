@@ -1,95 +1,95 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
     <url>
-        <loc>/</loc>
+        <loc>https://app.netlify.com/sites/gilded-speculoos-ea421e/</loc>
         <lastmod>2023-01-08T13:09:51+01:00</lastmod>
     </url>
     
     <url>
-        <loc>/glp/</loc>
+        <loc>https://app.netlify.com/sites/gilded-speculoos-ea421e/glp/</loc>
         <lastmod>2023-01-08T09:53:25+01:00</lastmod>
     </url>
     
     <url>
-        <loc>/glp/support/</loc>
+        <loc>https://app.netlify.com/sites/gilded-speculoos-ea421e/glp/support/</loc>
         <lastmod>2023-01-08T09:53:25+01:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>/glp/iot/</loc>
+        <loc>https://app.netlify.com/sites/gilded-speculoos-ea421e/glp/iot/</loc>
         <lastmod>2023-01-08T09:52:53+01:00</lastmod>
     </url>
     
     <url>
-        <loc>/glp/solutions/</loc>
+        <loc>https://app.netlify.com/sites/gilded-speculoos-ea421e/glp/solutions/</loc>
         <lastmod>2023-01-08T09:52:32+01:00</lastmod>
     </url>
     
     <url>
-        <loc>/blog/</loc>
+        <loc>https://app.netlify.com/sites/gilded-speculoos-ea421e/blog/</loc>
         <lastmod>2023-01-08T09:51:48+01:00</lastmod>
     </url>
     
     <url>
-        <loc>/glp/product/</loc>
+        <loc>https://app.netlify.com/sites/gilded-speculoos-ea421e/glp/product/</loc>
         <lastmod>2023-01-08T09:51:48+01:00</lastmod>
     </url>
     
     <url>
-        <loc>/tags/amperage/</loc>
+        <loc>https://app.netlify.com/sites/gilded-speculoos-ea421e/tags/amperage/</loc>
         <lastmod>2019-12-23T12:09:32+02:00</lastmod>
     </url>
     
     <url>
-        <loc>/tags/emoji/</loc>
+        <loc>https://app.netlify.com/sites/gilded-speculoos-ea421e/tags/emoji/</loc>
         <lastmod>2019-12-23T12:09:32+02:00</lastmod>
     </url>
     
     <url>
-        <loc>/blog/emoji-support/</loc>
-        <lastmod>2019-12-23T12:09:32+02:00</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.5</priority>
-    </url>
-    
-    <url>
-        <loc>/tags/markdown/</loc>
-        <lastmod>2019-12-23T12:09:32+02:00</lastmod>
-    </url>
-    
-    <url>
-        <loc>/blog/markdown-syntax/</loc>
+        <loc>https://app.netlify.com/sites/gilded-speculoos-ea421e/blog/emoji-support/</loc>
         <lastmod>2019-12-23T12:09:32+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>/blog/placeholder-text/</loc>
+        <loc>https://app.netlify.com/sites/gilded-speculoos-ea421e/tags/markdown/</loc>
+        <lastmod>2019-12-23T12:09:32+02:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://app.netlify.com/sites/gilded-speculoos-ea421e/blog/markdown-syntax/</loc>
         <lastmod>2019-12-23T12:09:32+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>/tags/</loc>
+        <loc>https://app.netlify.com/sites/gilded-speculoos-ea421e/blog/placeholder-text/</loc>
+        <lastmod>2019-12-23T12:09:32+02:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>https://app.netlify.com/sites/gilded-speculoos-ea421e/tags/</loc>
         <lastmod>2019-12-23T12:09:32+02:00</lastmod>
     </url>
     
     <url>
-        <loc>/tags/text/</loc>
+        <loc>https://app.netlify.com/sites/gilded-speculoos-ea421e/tags/text/</loc>
         <lastmod>2019-12-23T12:09:32+02:00</lastmod>
     </url>
     
     <url>
-        <loc>/tags/tag/</loc>
+        <loc>https://app.netlify.com/sites/gilded-speculoos-ea421e/tags/tag/</loc>
         <lastmod>2019-09-16T12:33:32+02:00</lastmod>
     </url>
     
     <url>
-        <loc>/blog/yet-another-test-post/</loc>
+        <loc>https://app.netlify.com/sites/gilded-speculoos-ea421e/blog/yet-another-test-post/</loc>
         <lastmod>2019-09-16T12:33:32+02:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
