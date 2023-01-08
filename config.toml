@@ -1,7 +1,7 @@
 # Default language if you have a multi-language setup
 DefaultContentLanguage = "en"
 
-baseURL = "https://example.com"
+baseURL = "https://app.netlify.com/sites/gilded-speculoos-ea421e"
 
 theme = "amperage"
 
